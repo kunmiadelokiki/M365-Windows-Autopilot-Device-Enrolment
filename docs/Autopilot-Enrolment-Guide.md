@@ -1,12 +1,12 @@
-# Configuring Windows Autopilot for Device Enrolment
+# Configuring Intune Autopilot for Device Enrolment
 
 ## 1. Name
 
-Windows Autopilot Device Enrolment Configuration
+Intune Autopilot Device Enrolment Configuration
 
 ## 2. Purpose
 
-Streamline and standardize device enrolment via Microsoft Intune using Windows Autopilot, ensuring secure and consistent deployment across the organisation. This guide covers creating dynamic device groups, configuring Intune policies and applications, setting up the Enrolment Status Page (ESP), and creating a Self-Deploying deployment profile.
+Streamline and standardise device enrolment via Microsoft Intune using Windows Autopilot, ensuring secure and consistent deployment across the organisation. This guide covers creating dynamic device groups, configuring Intune policies and applications, setting up the Enrolment Status Page (ESP), and creating a Self-Deploying deployment profile.
 
 ## 3. Scope
 
