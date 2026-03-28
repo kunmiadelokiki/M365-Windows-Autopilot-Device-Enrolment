@@ -7,7 +7,7 @@ Enterprise documentation for configuring Windows Autopilot via Microsoft Intune 
 | Document | Description |
 |---|---|
 | [Autopilot Enrolment Guide](docs/Autopilot-Enrolment-Guide.md) | Full configuration guide following 8-section enterprise documentation standard |
-| [Autopilot Enrolment Guide (PDF)](Autopilot-Enrolment-Guide.pdf) | Downloadable PDF version for client delivery |
+| [Autopilot Enrolment Guide (PDF)](Configuring-Windows-Autopilot-for-Device-Enrolment.pdf) | Downloadable PDF version for client delivery |
 
 ## Key Highlights
 
