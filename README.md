@@ -1,4 +1,4 @@
-#Windows Autopilot Device Enrolment Configuration
+#Intune Autopilot Device Enrolment Configuration
 
 Enterprise documentation for configuring Windows Autopilot via Microsoft Intune to streamline and standardize device enrolment — ensuring secure and consistent deployment.
 
